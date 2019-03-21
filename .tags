@@ -1,0 +1,30 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+SQLRunner	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/bin/sql_runner.rb	/^class SQLRunner$/;"	class	line:3
+initialize	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/bin/sql_runner.rb	/^  def initialize(db)$/;"	method	line:4	class:SQLRunner
+execute_schema_sql	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/bin/sql_runner.rb	/^  def execute_schema_sql$/;"	method	line:8	class:SQLRunner
+execute_insert_sql	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/bin/sql_runner.rb	/^  def execute_insert_sql$/;"	method	line:13	class:SQLRunner
+execute_update_sql	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/bin/sql_runner.rb	/^  def execute_update_sql$/;"	method	line:18	class:SQLRunner
+execute_data	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/bin/sql_runner.rb	/^  def execute_data$/;"	method	line:23	class:SQLRunner
+SQL Fantasy Library	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/README.md	/^# SQL Fantasy Library$/;"	function	line:1
+Objectives	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/README.md	/^## Objectives$/;"	function	line:5
+Section 1: `schema.sql`	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/README.md	/^## Section 1: `schema.sql`$/;"	function	line:10
+Section 2: `insert.sql`	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/README.md	/^## Section 2: `insert.sql`$/;"	function	line:22
+Section 3: `update.sql`	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/README.md	/^## Section 3: `update.sql`$/;"	function	line:37
+Section 4: Querying your database	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/README.md	/^## Section 4: Querying your database$/;"	function	line:41
+Resources	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/README.md	/^## Resources$/;"	function	line:45
+Contributing to Learn.co Curriculum	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:5
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:13
+Why Contribute?	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:25
+select_books_titles_and_years_in_first_series_order_by_year	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/lib/querying.rb	/^def select_books_titles_and_years_in_first_series_order_by_year$/;"	method	line:1
+select_name_and_motto_of_char_with_longest_motto	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/lib/querying.rb	/^def select_name_and_motto_of_char_with_longest_motto$/;"	method	line:5
+select_value_and_count_of_most_prolific_species	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/lib/querying.rb	/^def select_value_and_count_of_most_prolific_species$/;"	method	line:10
+select_name_and_series_subgenres_of_authors	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/lib/querying.rb	/^def select_name_and_series_subgenres_of_authors$/;"	method	line:14
+select_series_title_with_most_human_characters	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/lib/querying.rb	/^def select_series_title_with_most_human_characters$/;"	method	line:18
+select_character_names_and_number_of_books_they_are_in	/Users/manon/Development/code/sql-library-lab-london-web-career-031119/lib/querying.rb	/^def select_character_names_and_number_of_books_they_are_in$/;"	method	line:22
